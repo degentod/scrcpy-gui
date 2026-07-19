@@ -13,5 +13,20 @@ Parameter streaming `scrcpy` dikunci pada konfigurasi paling efisien agar ringan
 
 ### 1. Download / Clone Proyek
 ```bash
-git clone [https://github.com/USERNAME-ANDA/android-device-wall.git](https://github.com/USERNAME-ANDA/android-device-wall.git)
+git clone [https://github.com/USERNAME-ANDA/android-device-wall.git]](https://github.com/degentod/scrcpy-gui/tree/main)(https://github.com/USERNAME-ANDA/android-device-wall.git)
 cd android-device-wall
+
+### Jalankan Pemasangan Otomatis
+Windows:
+bash
+install_deps.bat
+
+### Linux / macOS: Buka terminal Anda di folder ini dan jalankan perintah:
+
+Bash
+chmod +x install_deps.sh
+./install_deps.sh
+
+### jalankan aplikasi
+bash
+python main.py
