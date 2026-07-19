@@ -1,4 +1,6 @@
-# 📱 Android Device Wall (Maks 10 Device)
+# 📱 Android Device Wall (Maks 20 Device)
+
+# Android device screen manager powered by SCRCPY
 
 ## Cara Menjalankan Langsung:
 - **Windows:** Klik `install_deps.bat` sekali saja. Lalu jalankan `python main.py`.
