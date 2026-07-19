@@ -13,7 +13,7 @@ Parameter streaming `scrcpy` dikunci pada konfigurasi paling efisien agar ringan
 
 ### 1. Download / Clone Proyek
 ```bash
-git clone [https://github.com/USERNAME-ANDA/android-device-wall.git]](https://github.com/degentod/scrcpy-gui/tree/main)(https://github.com/USERNAME-ANDA/android-device-wall.git)
+git clone (https://github.com/degentod/scrcpy-gui/tree/main)(https://github.com/USERNAME-ANDA/android-device-wall.git)
 cd android-device-wall
 
 ### Jalankan Pemasangan Otomatis
